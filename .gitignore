@@ -1,0 +1,19 @@
+# HBuilder 编译输出目录
+unpackage/
+node_modules/
+
+# 编辑器和操作系统缓存
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Mac 系统缓存
+._*
